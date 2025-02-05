@@ -1,3 +1,11 @@
+"""
+Basic mathematical operations module.
+
+This module provides simple arithmetic functions for basic mathematical operations
+like addition and subtraction. All functions support both integer and floating-point
+numbers as inputs.
+"""
+
 def add(a: float, b: float) -> float:
     """
     Add two numbers together.
